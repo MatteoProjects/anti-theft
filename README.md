@@ -109,10 +109,6 @@ Before running the project, you must:
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 📊 Possible Improvements
 
 - Graphical dashboard
@@ -131,6 +127,6 @@ Before running the project, you must:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Matteo Dalla Pozza
 
 Project developed for room presence monitoring using Arduino with Python backend and Discord integration.
