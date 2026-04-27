@@ -1,0 +1,266 @@
+[
+  {
+    "DetectedAt": "2026-04-04 11:32:55",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:32:56",
+    "OccupiedSeconds": 0.53
+  },
+  {
+    "DetectedAt": "2026-04-04 11:33:04",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:33:05",
+    "OccupiedSeconds": 0.53
+  },
+  {
+    "DetectedAt": "2026-04-04 11:33:10",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:33:11",
+    "OccupiedSeconds": 0.53
+  },
+  {
+    "DetectedAt": "2026-04-04 11:33:33",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:33:36",
+    "OccupiedSeconds": 2.54
+  },
+  {
+    "DetectedAt": "2026-04-04 11:37:52",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:37:52",
+    "OccupiedSeconds": 0.53
+  },
+  {
+    "DetectedAt": "2026-04-04 11:38:15",
+    "Period": "mattina",
+    "FreedAt": "2026-04-04 11:38:22",
+    "OccupiedSeconds": 7.06
+  },
+  {
+    "DetectedAt": "2026-04-04 14:11:52",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:12:08",
+    "OccupiedSeconds": 16.12
+  },
+  {
+    "DetectedAt": "2026-04-04 14:14:17",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:14:30",
+    "OccupiedSeconds": 13.1
+  },
+  {
+    "DetectedAt": "2026-04-04 14:14:40",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:14:40",
+    "OccupiedSeconds": 0.53
+  },
+  {
+    "DetectedAt": "2026-04-04 14:16:54",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:16:58",
+    "OccupiedSeconds": 4.03
+  },
+  {
+    "DetectedAt": "2026-04-04 14:17:41",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:17:49",
+    "OccupiedSeconds": 8.05
+  },
+  {
+    "DetectedAt": "2026-04-04 14:17:56",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:17:57",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:18:10",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:18:34",
+    "OccupiedSeconds": 23.64
+  },
+  {
+    "DetectedAt": "2026-04-04 14:18:39",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:18:40",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:18:41",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:18:43",
+    "OccupiedSeconds": 2.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:18:43",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:18:44",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:18:56",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:34",
+    "OccupiedSeconds": 38.25
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:37",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:43",
+    "OccupiedSeconds": 6.04
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:44",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:45",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:45",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:46",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:47",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:50",
+    "OccupiedSeconds": 2.52
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:50",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:51",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:51",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:52",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:52",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:19:53",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:19:55",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:20:00",
+    "OccupiedSeconds": 5.04
+  },
+  {
+    "DetectedAt": "2026-04-04 14:20:01",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:21:38",
+    "OccupiedSeconds": 96.13
+  },
+  {
+    "DetectedAt": "2026-04-04 14:21:38",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:21:45",
+    "OccupiedSeconds": 6.55
+  },
+  {
+    "DetectedAt": "2026-04-04 14:21:45",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:21:47",
+    "OccupiedSeconds": 2.02
+  },
+  {
+    "DetectedAt": "2026-04-04 14:21:48",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:25:49",
+    "OccupiedSeconds": 241.9
+  },
+  {
+    "DetectedAt": "2026-04-04 14:25:50",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:25:52",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:25:53",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:25:53",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:25:54",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:25:55",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:25:56",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:25:57",
+    "OccupiedSeconds": 1.01
+  },
+  {
+    "DetectedAt": "2026-04-04 14:25:57",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:01",
+    "OccupiedSeconds": 4.07
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:02",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:04",
+    "OccupiedSeconds": 2.02
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:04",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:07",
+    "OccupiedSeconds": 3.03
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:08",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:13",
+    "OccupiedSeconds": 5.04
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:14",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:25",
+    "OccupiedSeconds": 11.61
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:26",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:32",
+    "OccupiedSeconds": 6.56
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:33",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:33",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:34",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:41",
+    "OccupiedSeconds": 6.56
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:42",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:43",
+    "OccupiedSeconds": 0.51
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:44",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:26:47",
+    "OccupiedSeconds": 3.53
+  },
+  {
+    "DetectedAt": "2026-04-04 14:26:52",
+    "Period": "pomeriggio",
+    "FreedAt": "2026-04-04 14:27:04",
+    "OccupiedSeconds": 12.23
+  }
+]
